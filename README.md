@@ -1,6 +1,7 @@
 # torch160_vision070_armv7
 
   [1] move files 
+  
       **torch-1.6.0a0+b31f58d-cp37-cp37m-linux_armv7l.whl** 
       
       and 
